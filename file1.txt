@@ -9,3 +9,5 @@ Hello! This is file 1 from branch 2
 </head>
 </html>
 
+Hi this is karthi who is editing on master branch of my personal remote repo.
+
