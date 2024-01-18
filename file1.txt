@@ -1,3 +1,11 @@
 Hello! This is file 1
 
-Hello! yesterday I learnt how to commit a file to git
+
+<html>
+<head>
+<body>
+<h1>Welcome to Git Learning</h1>
+</body>
+</head>
+</html>
+
